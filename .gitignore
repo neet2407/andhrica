@@ -1,14 +1,10 @@
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-build/
-dist/
 *.egg-info/
-.eggs/
+dist/
+build/
 .venv/
 venv/
 .idea/
 .vscode/
 *.swp
-.DS_Store
